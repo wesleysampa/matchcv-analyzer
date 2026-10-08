@@ -162,16 +162,25 @@ Após a geração inicial no Lovable, foram realizados os seguintes ajustes estr
 ## 📸 Evidências de funcionamento
 
 ### 1. Tela Inicial e Seleção de Perfil
-<img width="1902" height="1031" alt="image" src="https://github.com/user-attachments/assets/7a007b7c-f57b-43d3-ac4e-7decbca696a5" />
-*Figura 1: Tela de apresentação da aplicação com os dois cards visuais para escolha de perfil.*
+<p align="center">
+  <img width="1902" height="1031" alt="Tela Inicial e Seleção de Perfil" src="https://github.com/user-attachments/assets/7a007b7c-f57b-43d3-ac4e-7decbca696a5">
+  <br>
+  <em>Figura 1: Tela de apresentação da aplicação com os dois cards visuais para escolha de perfil.</em>
+</p>
 
 ### 2. Análise da Vaga e Match Score
-<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/0c2886d7-39fd-4dba-b505-cb998195208e" />
-*Figura 2: Dashboard analítico exibindo o Match Score, palavras-chave encontradas e faltantes.*
+<p align="center">
+  <img width="1920" height="1031" alt="Análise da Vaga e Match Score" src="https://github.com/user-attachments/assets/0c2886d7-39fd-4dba-b505-cb998195208e">
+  <br>
+  <em>Figura 2: Dashboard analítico exibindo o Match Score, palavras-chave encontradas e faltantes.</em>
+</p>
 
 ### 3. Currículo ATS Otimizado e Exportação
-<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/30121948-c8c9-45fb-9882-99d19bccf8e8" />
-*Figura 3: Visualização do currículo reformatado no padrão ATS pronto para download em PDF.*
+<p align="center">
+  <img width="1920" height="1031" alt="Currículo ATS Otimizado e Exportação" src="https://github.com/user-attachments/assets/30121948-c8c9-45fb-9882-99d19bccf8e8">
+  <br>
+  <em>Figura 3: Visualização do currículo reformatado no padrão ATS pronto para download em PDF.</em>
+</p>
 
 
 ## 🛠️ Tecnologias Utilizadas
